@@ -1,5 +1,5 @@
 # **Fetal Health Classification Using Machine Learning**
-![Fetal Health Cover Image](/fetalHealth.jpg)
+![Fetal Health Cover Image](/images/fetalHealth.jpg)
 
 A machine learning project to classify fetal health based on features derived from cardiotocogram (CTG) data. This project leverages data preprocessing, visualization, and classification techniques to predict fetal health status as **Normal**, **Suspect**, or **Pathological**.
 
